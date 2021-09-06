@@ -1,5 +1,5 @@
 # Private Key Generator
-Generate key at format .pem from a private key text
+Generate an ssh key at format .pem from a private key text
 
 
 # References
